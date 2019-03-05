@@ -1,1 +1,4 @@
 *sample*
+*.pyc
+*.xml
+*.iml
